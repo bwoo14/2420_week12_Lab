@@ -38,12 +38,12 @@ sudo apt install nginx
 <html lang="en">
 <html>
     <head>
-		<meta charset="UTF-8" />
-        <title>Example Site for 2420</title>
+        <meta charset="UTF-8" />
+        <title>My Landing Page</title>
     </head>
     <body>
-        <h1>Success!</h1>
-        <h2 style="color: red;">All your internets are belong to us!</h2>
+        <h1>Welcome to Brandon, Doris, and Parnian's webpage </h1>
+        <b>Your cookies are ours >:)</b>
     </body>
 </html>
 ```
